@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="27.1.6">
+  <diagram name="Page-1" id="0ed6n1E4L74ZJPstsXHu">
+    <mxGraphModel dx="2028" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8BYq7VazukYzx8H9Y4F-1" target="5ec0SIhl8dylEhz4KolJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K8BYq7VazukYzx8H9Y4F-1" value="&lt;div&gt;Осознать проблему&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="65" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-1" value="&lt;div&gt;Фаза осознания проблемы&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-4" target="5ec0SIhl8dylEhz4KolJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-4" value="Бутыли с питьевой водой занимают место в на кухне" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-5" value="Пользователь кликает на кнопку" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="65" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-6" target="K8BYq7VazukYzx8H9Y4F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-6" target="5ec0SIhl8dylEhz4KolJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-6" value="&lt;div&gt;Пользователь&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-10" value="Заполняет описание проблемы" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-12" value="Нажимает кнопку &quot;Поиск решения&quot;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-14" target="5ec0SIhl8dylEhz4KolJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-14" value="Формулируем запрос к ИИ на определение исходной проблемы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-15" target="5ec0SIhl8dylEhz4KolJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-15" target="5ec0SIhl8dylEhz4KolJ-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="240" />
+              <mxPoint x="155" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-15" value="Найти решение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-19" value="&lt;div&gt;Происходит запрос к ИИ (на примере DeepSeek R1):&lt;/div&gt;&lt;div&gt;&quot;Какую исходную потребность человека удовлетворяет что-то, что стало проблемой, сформулированной в запросе:&quot;, (мы добавляем наш запрос):&lt;br&gt;&quot;Бутыли с питьевой водой занимают место в на кухне&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-20" target="5ec0SIhl8dylEhz4KolJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-20" value="Получаем ответ от ИИ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-22" value="&lt;div&gt;Получаем ответ от ИИ:&lt;/div&gt;&lt;div&gt;&quot;Исходная потребность, которая удовлетворяется бутылями с питьевой водой, — это &lt;strong&gt;потребность в чистой, безопасной и доступной питьевой воде&lt;/strong&gt;.&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Фильтруем набор Решений, которые имеют максимально схожий набор меток и текст:&lt;/div&gt;&lt;div&gt;&quot;Выберите наиболее подходящее решение&quot; и показать топ-5(10) решений (количество решений настраиваемое)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Последним пунктом должна быть кнопка:&lt;br&gt;&quot;Решений не найдено. Обозначить проблему.&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ec0SIhl8dylEhz4KolJ-27" target="5ec0SIhl8dylEhz4KolJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-27" value="Формулируем запрос к ИИ на формирование плоского списка тегов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-30" value="&lt;div&gt;Запрос:&amp;nbsp; &quot;Сгенерируй линейный список однословных меток для быстрых фильтров для всех проблем, которые были затронуты.&quot;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="255" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ec0SIhl8dylEhz4KolJ-34" value="Показываем сообщение, что исходная потребность &quot;в чистой, безопасной и доступной питьевой воде.&quot;, оптимальнее всего решается следующими способами: показать топ-5(10) решений" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
